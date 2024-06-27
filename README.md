@@ -11,14 +11,14 @@
 ## 수업 자료( ☀️ 2024년 6월 26일 updated)
 
 
-- **예제1. R 을 배워야하는 이유 ?**:  📄[노트](https://github.com/jiyoun29/R-/blob/R%EC%88%98%EC%97%85/%EC%98%88%EC%A0%9C1.%20R%EC%9D%84%20%EB%B0%B0%EC%9B%8C%EC%95%BC%20%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0%3F)
+- **예제1. R 을 배워야하는 이유 ?**:  📄[노트](https://github.com/jiyoun29/R-/blob/R%EC%88%98%EC%97%85/%EC%98%88%EC%A0%9C1.%20R%EC%9D%84%20%EB%B0%B0%EC%9B%8C%EC%95%BC%20%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0%3F.md)
   &nbsp;
   
-- **예제2. R 설치하기 !**: 📄 [노트](https://github.com/jiyoun29/R-/blob/R%EC%88%98%EC%97%85/%EC%98%88%EC%A0%9C2.%20R%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
+- **예제2. R 설치하기 !**: 📄 [노트](https://github.com/jiyoun29/R-/blob/R%EC%88%98%EC%97%85/%EC%98%88%EC%A0%9C2.%20R%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0.md)
 
-- **예제3. SQL 과 R 과의 차이점은 무엇인가 ?**: 📄 [노트](https://github.com/oracleyu01/R_class/blob/main/%E2%96%A3%20%EC%98%88%EC%A0%9C3.%20%20SQL%20%EA%B3%BC%20%20R%20%EA%B3%BC%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.txt)
+- **예제3. SQL 과 R 과의 차이점은 무엇인가 ?**: 📄 [노트](https://github.com/jiyoun29/R-/blob/R%EC%88%98%EC%97%85/%EC%98%88%EC%A0%9C3.%20SQL%EA%B3%BC%20R%EA%B3%BC%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md)
 
-- **예제4. R의 자료 구조 5가지를 알아야해요!**: 📄 [노트](https://github.com/oracleyu01/R_class/blob/main/%E2%96%A3%20%EC%98%88%EC%A0%9C4.%20%20R%EC%9D%98%20%EC%9E%90%EB%A3%8C%20%EA%B5%AC%EC%A1%B0%205%EA%B0%80%EC%A7%80.txt)
+- **예제4. R의 자료 구조 5가지를 알아야해요!**: 📄 [노트](https://github.com/jiyoun29/R-/blob/R%EC%88%98%EC%97%85/%EC%98%88%EC%A0%9C4.%20%20R%EC%9D%98%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%205%EA%B0%80%EC%A7%80.md)
 
 - **예제5. 데이터를 검색할 줄 알아야해요 !**: 📄 [노트](https://github.com/jiyoun29/R-/blob/R%EC%88%98%EC%97%85/%EC%98%88%EC%A0%9C5.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B2%80%EC%83%89%ED%95%98%EA%B8%B0.md)
 
