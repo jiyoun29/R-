@@ -11,7 +11,7 @@
 ## 수업 자료( ☀️ 2024년 6월 26일 updated)
 
 
-- **예제1. R 을 배워야하는 이유 ?**:  📄[노트](https://github.com/oracleyu01/R_class/blob/main/%E2%96%A3%20%EC%98%88%EC%A0%9C1.%20R%20%EC%9D%84%20%EB%B0%B0%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.txt)
+- **예제1. R 을 배워야하는 이유 ?**:  📄[노트](https://github.com/jiyoun29/R-/blob/R%EC%88%98%EC%97%85/%EC%98%88%EC%A0%9C1.%20R%EC%9D%84%20%EB%B0%B0%EC%9B%8C%EC%95%BC%20%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0%3F)
   &nbsp;
   
 - **예제2. R 설치하기 !**: 📄 [노트](https://github.com/oracleyu01/R_class/blob/main/%E2%96%A3%20%EC%98%88%EC%A0%9C2.%20%20R%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0.txt)
