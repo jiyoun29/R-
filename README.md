@@ -20,7 +20,7 @@
 
 - **예제4. R의 자료 구조 5가지를 알아야해요!**: 📄 [노트](https://github.com/oracleyu01/R_class/blob/main/%E2%96%A3%20%EC%98%88%EC%A0%9C4.%20%20R%EC%9D%98%20%EC%9E%90%EB%A3%8C%20%EA%B5%AC%EC%A1%B0%205%EA%B0%80%EC%A7%80.txt)
 
-- **예제5. 데이터를 검색할 줄 알아야해요 !**: 📄 [노트](https://github.com/oracleyu01/R_class/blob/main/%E2%96%A3%20%EC%98%88%EC%A0%9C5.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B2%80%EC%83%89%ED%95%98%EA%B8%B0.txt)
+- **예제5. 데이터를 검색할 줄 알아야해요 !**: 📄 [노트](https://github.com/jiyoun29/R-/blob/R%EC%88%98%EC%97%85/%EC%98%88%EC%A0%9C5.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B2%80%EC%83%89%ED%95%98%EA%B8%B0.md)
 
 - **예제6. R 에서 사용하는 연산자 3가지를 알아야해 !**: 📄 [노트](https://github.com/oracleyu01/R_class/blob/main/%E2%96%A3%20%EC%98%88%EC%A0%9C6.%20R%20%EC%97%B0%EC%82%B0%EC%9E%90%203%EA%B0%80%EC%A7%80.txt)
 
