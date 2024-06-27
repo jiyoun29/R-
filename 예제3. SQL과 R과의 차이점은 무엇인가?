@@ -1,0 +1,33 @@
+# 예제3. SQL과 R과의 차이점은 무엇인가?
+- SQL은 불가능하지만, R은 데이터 시각화가 됩니다.
+- 아주 긴 SQL 코드를 R코드로는 단순하게 작성할 수 있습니다.
+- 아주 훌륭한 데이터 분석 패키지들이 많습니다. (오래된 역사!)
+
+
+ex)
+
+SQL
+
+```sql
+select job, sum(decode(deptno,10,sal,null)) as "10",sum(decode(deptno,20,sal,null)) as "20",sum(decode(deptno,30,sal,null)) as "30" from emp group by job
+```
+
+R
+
+```r
+attach(emp)
+tapply(sal,list(job,deptno),sum)
+```
+
+```r
+pie( emp$sal, col=rainbow(14))
+
+# emp 테이블을 원형으로 나타내는 것
+```
+
+
+
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/421a98ad-62cc-496c-b59c-7ee390540e32/4be64fd2-1f00-420d-8101-9374696a1aaf/Untitled.png)
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/421a98ad-62cc-496c-b59c-7ee390540e32/e057564b-bbd0-4a24-b319-501ad5ba4e8d/Untitled.png)
